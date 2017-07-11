@@ -20,4 +20,4 @@ writes a very nice conclusion for the document
 and commits it.
 *PLACE HOLDER: (ASTUDENT or BSTUDENT)'S TEXT*
 
-This is a collabolation file
+This is a collabolation file with Solomon
